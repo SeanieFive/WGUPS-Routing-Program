@@ -12,8 +12,11 @@ The intent is to use this solution (program) for this specific location and to u
 
 **Assumptions:**
 Each truck can carry a maximum of 16 packages.
+
 Trucks travel at an average speed of 18 miles per hour.
+
 Trucks have a “infinite amount of gas” with no need to stop.
+
 Each driver stays with the same truck as long as that truck is in service.
 Drivers leave the hub at 8:00 a.m., with the truck loaded, and can return to the hub for packages if needed. The day ends when all 40 packages have been delivered.
 Delivery time is instantaneous, i.e., no time passes while at a delivery (that time is factored into the average speed of the trucks).
